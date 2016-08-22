@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[Id] INT NOT NULL PRIMARY KEY,
+	[Opiskelija] VARCHAR(50) NOT NULL,
+	[Tila] VARCHAR(50) NOT NULL
+)
